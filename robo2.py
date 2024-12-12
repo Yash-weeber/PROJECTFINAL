@@ -37,7 +37,7 @@ if __name__ == "__main__":
     SPEED = 500  # Speed for the movements
 
     # Define the CSV file path here
-    csv_file = "path/to/your/angles.csv"  # Replace with the actual path to your CSV file
+    csv_file = "mazeangles.csv"  # Replace with the actual path to your CSV file
     DELAY = 1.0  # Delay between movements in seconds
 
     try:
